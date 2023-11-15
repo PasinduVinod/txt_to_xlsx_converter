@@ -12,6 +12,7 @@ How to install,
 
 To run this application you should install Python.
 If you have already installed Python,
+
         1. Install openpyxl library to your PC by running the following command in the command prompt.
             * pip install openpyxl
         2. Clone or Download this repository.
